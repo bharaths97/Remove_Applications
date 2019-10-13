@@ -8,3 +8,7 @@ Thus the presence of Bonjour without iTunes or iCloud makes a system susceptible
 
 The zip folder named "exe.win32-3.7" has an exe that can be executed directly without any installation.
 
+To use the exe : 
+1) download the zip file
+2) Extract the contents
+3) Do not copy or move the exe from the extracted folder. Run it from the same
